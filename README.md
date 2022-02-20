@@ -28,11 +28,9 @@ Below is the sample of some of the artciles i wrote.
 </a>
 
 <!-- links to social media icons -->
-
 <!-- icons without padding -->
 [1.2]: http://i.imgur.com/wWzX9uB.png 
 [2.2]: https://raw.githubusercontent.com/nitendragautam/nitendragautam/master/linkedin-3-16.png 
-
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/nitendra_tech
