@@ -1,6 +1,6 @@
 Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam/raw/main/wave_gif.gif" width="30px">
 
-This is where i keepp all my code repo and prokects.
+This is where i keepp all my code repo and projects.
 
 
 &nbsp;**Connect with me**
@@ -10,7 +10,7 @@ You can connect with me using below medium.
  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
 
-  <summary><b>&nbsp;&nbsp;About&nbsp;Me</b></summary>
+<b>&nbsp;&nbsp;About&nbsp;Me</b>
   <br/>
 
 I am a Data Engineer/Software Developer with 8+ years of experience in developing enterpise applications and working on projects.
