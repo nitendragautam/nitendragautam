@@ -15,7 +15,7 @@ You can connect with me using below medium.
 
 I am a Data Engineer/Software Developer with 8+ years of experience in developing enterpise applications and working on projects.
 
-I have been working in Big Data Analytics and Data Engineering stack in various Fortune 100 IT  Organizations since 2012 AD.
+I have been working in Big Data Analytics and Data Engineering Tech stack in various Fortune 100 IT  Organizations since 2012 AD.
   
 ## Interest
 * Big Data Analytics
@@ -23,6 +23,8 @@ I have been working in Big Data Analytics and Data Engineering stack in various 
 * Data Engineering
 * Distributed Computing
 * Cloud Computing
+* Data Lake Design and Architecture
+* Cloud Migration
 
 
 
