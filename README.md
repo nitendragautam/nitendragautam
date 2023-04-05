@@ -3,6 +3,8 @@ Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam/raw/main
 This is where i keepp all my code repo and projects.
 
 
+[Visitors](https://visitor-badge.laobi.icu/badge?page_id=nitendragautam.nitendragautam)
+
 &nbsp;**Connect with me**
 
 You can connect with me using below medium.
@@ -13,10 +15,10 @@ You can connect with me using below medium.
 <b>&nbsp;&nbsp;About&nbsp;Me</b>
   <br/>
 
-I am a Data Engineer/Software Developer with 8+ years of experience in developing enterpise applications and working on projects.
+ I am a technology enthusiast and blogger who writes about various topics related to software engineering, machine learning, cloud computing, and information technology, including cloud computing, big data, machine learning, and DevOps.
 
-I have been working in Big Data Analytics and Data Engineering Tech stack in various Fortune 100 IT  Organizations since 2012 AD.
-  
+ I  maintain a blog called NitendraTech where he shares his knowledge and expertise on these topics. This blog provides insights and tutorials on emerging technologies and is a useful resource for anyone interested in staying up-to-date with the latest developments in the tech industry. I have done my  master’s in Computer Science Specializing in Big Data and holds a Graduate Certificate in Statistics from NDSU.
+ 
 ## Interest
 * Big Data Analytics
 * Software Development
@@ -25,6 +27,7 @@ I have been working in Big Data Analytics and Data Engineering Tech stack in var
 * Cloud Computing
 * Data Lake Design and Architecture
 * Cloud Migration
+* Data Engineering 
 
 
 
