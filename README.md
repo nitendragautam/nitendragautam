@@ -1,13 +1,13 @@
 Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam/raw/main/wave_gif.gif" width="30px">
 
-This is where i keepp all my code repo and projects.
+This is where i keep all my code repo and projects.
 
 
-[Visitors](https://visitor-badge.laobi.icu/badge?page_id=nitendragautam.nitendragautam)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nitendragautam.nitendragautam)
 
 &nbsp;**Connect with me**
 
-You can connect with me using below medium.
+You can find me using any of the below links.
 
  [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
@@ -17,7 +17,7 @@ You can connect with me using below medium.
 
  I am a technology enthusiast and blogger who writes about various topics related to software engineering, machine learning, cloud computing, and information technology, including cloud computing, big data, machine learning, and DevOps.
 
- I  maintain a blog called NitendraTech where he shares his knowledge and expertise on these topics. This blog provides insights and tutorials on emerging technologies and is a useful resource for anyone interested in staying up-to-date with the latest developments in the tech industry. I have done my  master’s in Computer Science Specializing in Big Data and holds a Graduate Certificate in Statistics from NDSU.
+ I  maintain a blog called NitendraTech where I  shares my knowledge and expertise on these topics. This blog provides insights and tutorials on emerging technologies and is a useful resource for anyone interested in staying up-to-date with the latest developments in the tech industry. I have done my  master’s in Computer Science Specializing in Big Data and holds a Graduate Certificate in Statistics from NDSU.
  
 ## Interest
 * Big Data Analytics
@@ -27,7 +27,6 @@ You can connect with me using below medium.
 * Cloud Computing
 * Data Lake Design and Architecture
 * Cloud Migration
-* Data Engineering 
 
 
 
