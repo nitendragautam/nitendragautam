@@ -51,6 +51,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 Below is the sample of some of the blog post and artcile i wrote.
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Data Analysis ?](https://www.nitendratech.com/datascience/data-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=data-analysis)
 - [SQL CREATE Table Statement](https://www.nitendratech.com/database/sql-create-table-statement/?utm_source=rss&utm_medium=rss&utm_campaign=sql-create-table-statement)
 - [Data Engineering Interview Questions](https://www.nitendratech.com/interview/data-engineering-interview-questions/?utm_source=rss&utm_medium=rss&utm_campaign=data-engineering-interview-questions)
 - [Programming Languages](https://www.nitendratech.com/programming/programming-langauge/?utm_source=rss&utm_medium=rss&utm_campaign=programming-langauge)
@@ -60,7 +61,6 @@ Below is the sample of some of the blog post and artcile i wrote.
 - [What are User Defined Functions&lpar;UDF&rpar; in Apache Hive?](https://www.nitendratech.com/hive/user-defined-functions-udf-hive/?utm_source=rss&utm_medium=rss&utm_campaign=user-defined-functions-udf-hive)
 - [What is Hadoop Task Tracker?](https://www.nitendratech.com/hadoop/what-is-hadoop-task-tracker/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-hadoop-task-tracker)
 - [What is ETL Testing and its Importance?](https://www.nitendratech.com/database/etl-testing/?utm_source=rss&utm_medium=rss&utm_campaign=etl-testing)
-- [What is Metadata and why it’s important?](https://www.nitendratech.com/database/metadata-data-applications/?utm_source=rss&utm_medium=rss&utm_campaign=metadata-data-applications)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Status
