@@ -51,6 +51,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/) .
 Below is the sample of some of the blog post and artcile i wrote.
 
 <!-- BLOG-POST-LIST:START -->
+- [What is  Kubernetes?](https://www.nitendratech.com/technology/learnkubernetes/)
 - [What is a Data Platform?](https://www.nitendratech.com/bigdata/data-platform/)
 - [What is Data Analysis ?](https://www.nitendratech.com/datascience/data-analysis/)
 - [SQL CREATE Table Statement](https://www.nitendratech.com/database/sql-create-table-statement/)
@@ -60,7 +61,6 @@ Below is the sample of some of the blog post and artcile i wrote.
 - [What is a Distributed Database?](https://www.nitendratech.com/database/what-is-a-distributed-database/)
 - [What is Disruptive Technology?](https://www.nitendratech.com/technology/disruptive-technology/)
 - [What are User Defined Functions&lpar;UDF&rpar; in Apache Hive?](https://www.nitendratech.com/hive/user-defined-functions-udf-hive/)
-- [What is Hadoop Task Tracker?](https://www.nitendratech.com/hadoop/what-is-hadoop-task-tracker/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Status
