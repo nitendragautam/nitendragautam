@@ -1,6 +1,6 @@
 Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam/raw/main/wave_gif.gif" width="30px">
 
-This is where i keep all my code repo and projects.
+I keep all my code repo and projects over here in github.
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nitendragautam.nitendragautam)
