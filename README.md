@@ -3,7 +3,6 @@ Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam/raw/main
 I keep all my code repos and projects over here in github.
 
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nitendragautam.nitendragautam)
 
 &nbsp;**Connect with me**
 
@@ -27,6 +26,7 @@ You can find me using any of the below links.
 * Cloud Computing
 * Data Lake Design and Architecture
 * Cloud Migration
+* Cloud Computing 
 
 
 
@@ -39,6 +39,8 @@ You can find me using any of the below links.
 
 </details>
 
+
+
 ## &#x270d; Blogs & Writing
 
 I write blogs/articles on different topics on my website besides my professional work, 
@@ -48,7 +50,7 @@ You can find my blogs at [nitendratech.com](https://www.nitendratech.com/).
 
 ### 🧑‍💻 Recent Blog posts
 
-Below is a sample of some of the blog posts and articles I wrote.
+You will find my latest blog posts and articles below.
 
 <!-- BLOG-POST-LIST:START -->
 - [What is Precision Marketing?](https://www.nitendratech.com/technology/learn-precision-marketing/)
