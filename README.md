@@ -28,6 +28,7 @@ As Master degree holder in Computer Science specializing in Big Data analytics a
 * Data Lake Design and Architecture
 * Cloud Migration/Computing/Architecture
 * Machine Learning
+* Statistical Modelling
 
 
 
