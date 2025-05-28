@@ -3,7 +3,6 @@ Hi Everyone !<img src="https://github.com/nitendragautam/nitendragautam/raw/main
 I keep all my code repos and projects over here in Git Hub.
 
 
-
 &nbsp;**Connect with me**
 
 You can find me using any of the below links.
@@ -29,7 +28,6 @@ As Master degree holder in Computer Science specializing in Big Data analytics a
 * Cloud Migration/Computing/Architecture
 * Machine Learning
 * Statistical Modelling
-
 
 
 ## Academic Published Papers
